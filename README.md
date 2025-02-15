@@ -23,7 +23,7 @@ return len(words)
 def main(): 
 print("Welcome to the Word Counter Program") 
 print("Enter your text (press Enter twice to finish):") 
-# Collect multi
+# Collect multi-
 line input lines 
 = [] 
 while True: 
